@@ -1,0 +1,24 @@
+.navigation{
+    display:flex;
+    position:relative;
+    height:60px;
+    background-color: azure;
+    box-shadow: 0px 2px 2px 2px  rgba(160, 160, 160, a0.998);
+}
+.navigation{
+    font-size: 2rem;
+    color: black;
+    font-weight: 700;
+
+}
+
+.navigation-menu{
+    margin-left:none
+
+}
+.hamburger{
+    width:40px;
+    height: 40px;
+    border: 0;
+    top
+}
